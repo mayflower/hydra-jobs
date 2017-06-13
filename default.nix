@@ -329,6 +329,7 @@ in
   libyamlcpp = all;
   libzip = all;
   links2 = all;
+  lldp = all;
   lm_sensors = all;
   lolcat = all;
   lout = all;
@@ -523,6 +524,7 @@ in
   haskellPackages.xmobar = all;
   haskellPackages.xmonad-contrib = all;
   haskellPackages.xmonad-extras = all;
+  prometheus-fritzbox-exporter = all;
   pv = all;
   python35Packages.youtube-dl = all;
   qemu = all;
